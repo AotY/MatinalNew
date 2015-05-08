@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MatinalNew.iml" filepath="$PROJECT_DIR$/MatinalNew.iml" />
+      <module fileurl="file://$PROJECT_DIR$/extras/NumberProgressBar-library/NumberProgressBar-library.iml" filepath="$PROJECT_DIR$/extras/NumberProgressBar-library/NumberProgressBar-library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/extras/ShimmerAndroid/ShimmerAndroid.iml" filepath="$PROJECT_DIR$/extras/ShimmerAndroid/ShimmerAndroid.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/extras/slidiingmenu-library/slidiingmenu-library.iml" filepath="$PROJECT_DIR$/extras/slidiingmenu-library/slidiingmenu-library.iml" />
+    </modules>
+  </component>
+</project>
+

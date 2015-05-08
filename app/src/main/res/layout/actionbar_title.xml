@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:id="@+id/id_title_container"
+    android:background="@color/main_bg"
+    android:gravity="center">
+
+
+    <ImageView
+        android:src="@drawable/main_back_normal"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:id="@+id/id_title_img" />
+
+    <com.romainpiel.shimmer.ShimmerTextView
+        android:text="Matinal"
+        android:id="@+id/tv_shimmer"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="#EEEEEEEE"
+        android:textSize="19sp" />
+
+</LinearLayout>

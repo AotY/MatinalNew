@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="background_tab_pressed">#6633B5E5</color>
+    <color name="transparent">#00000000</color>
+    <color name="menu_text_bg_press">#444</color>
+    <color name="main_bg">#17b592</color>
+</resources>

@@ -1,0 +1,4 @@
+include ':app', ':ShimmerAndroid', ':slidiingmenu-library', ':NumberProgressBar-library'
+project(':ShimmerAndroid').projectDir = new File('extras/ShimmerAndroid')
+project(':slidiingmenu-library').projectDir = new File('extras/slidiingmenu-library')
+project(':NumberProgressBar-library').projectDir = new File('extras/NumberProgressBar-library')

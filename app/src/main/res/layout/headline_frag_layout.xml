@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v4.widget.SwipeRefreshLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:custom="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/headlie_swipe_container"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <ListView
+        android:divider="@drawable/list_divider"
+        android:id="@+id/heahline_list_view"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+</android.support.v4.widget.SwipeRefreshLayout>
+    <!--android:orientation="vertical"-->
+    <!--android:layout_width="match_parent"-->
+    <!--android:layout_height="match_parent">-->
+
+    <!--<com.daimajia.slider.library.SliderLayout-->
+    <!--android:id="@+id/headline_slider"-->
+    <!--android:layout_width="match_parent"-->
+    <!--custom:pager_animation="Accordion"-->
+    <!--custom:auto_cycle="true"-->
+    <!--custom:indicator_visibility="visible"-->
+    <!--custom:pager_animation_span="1100"-->
+    <!--android:layout_height="200dp" />-->
+
+    <!--<com.daimajia.slider.library.Indicators.PagerIndicator-->
+    <!--android:id="@+id/headline_custom_indicator"-->
+    <!--android:layout_width="wrap_content"-->
+    <!--android:layout_height="wrap_content"-->
+    <!--android:gravity="center" />-->
